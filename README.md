@@ -24,7 +24,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: https://github.com/CarryAEstranha/Profile-Card-Component/
+- Solution URL: https://github.com/CarryAEstranha/NTF-Preview-Card-Component/
 - Live Site URL: https://carryaestranha.github.io/Profile-Card-Component/
 
 ## My process
